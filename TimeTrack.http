@@ -1,0 +1,40 @@
+### Add B2B
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B",
+  "time": "2021-11-27T07:30:00"
+}
+
+### Add LUNCH
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "LUNCH",
+  "time": "2021-11-27T11:00:00"
+}
+
+### Add B2B
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B",
+  "time": "2021-11-27T11:30:00"
+}
+
+
+### Add ActivityLog
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "EOD",
+  "time": "2021-11-27T15:00:00"
+}
+
+
+### GET DAILY REPORT
+GET http://localhost:8080/start/2021-11-27

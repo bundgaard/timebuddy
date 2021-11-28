@@ -1,0 +1,245 @@
+GET http://localhost:8080/start/2021-11-27
+
+<> 2021-11-28T130653.200.json
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B",
+  "time": "2021-11-27T11:30:00"
+}
+
+###
+
+GET http://localhost:8080/start/2021-11-27
+
+<> 2021-11-28T130626.200.json
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "EOD",
+  "time": "2021-11-27T15:00:00"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "LUNCH",
+  "time": "2021-11-27T11:00:00"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B",
+  "time": "2021-11-27T07:30:00"
+}
+
+###
+
+GET http://localhost:8080/start/2021-11-26
+
+<> 2021-11-28T130508.200.json
+
+###
+
+GET http://localhost:8080/start/2021-11-26
+
+<> 2021-11-26T084235.200.json
+
+###
+
+GET http://localhost:8080/start/daily/2021-11-26
+
+<> 2021-11-26T084227.404.json
+
+###
+
+GET http://localhost:8080/daily/2021-11-26
+
+<> 2021-11-26T084216.404.json
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "EOD",
+  "time": "2021-11-26T16:30:00"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "LUNCH",
+  "time": "2021-11-26T11:30:00"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B",
+  "time": "2021-11-26T06:30:00"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "EOD",
+  "time": "2021-11-26T16:30:00"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "LUNCH",
+  "time": "2021-11-26T11:30:00"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B",
+  "time": "2021-11-26T06:30:00"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "EOD",
+  "time": "2021-11-26T16:30:00"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "LUNCH",
+  "time": "2021-11-26T11:30:00"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B"
+}
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B"
+}
+
+<> 2021-11-26T083113.500.json
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B"
+}
+
+<> 2021-11-26T082906.500.json
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B"
+}
+
+<> 2021-11-26T082815.500.json
+
+###
+
+POST http://localhost:8080/start
+Content-Type: application/json
+
+{
+  "activity": "B2B"
+}
+
+<> 2021-11-26T082518.500.json
+
+###
+
